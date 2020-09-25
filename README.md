@@ -8,4 +8,8 @@
  
  
  I look forward to learning more and growing as a developer
+ 
+ Projects
+ 
+ 1. HTML Resume - <a href="html_resume/index.html">HTML Resume</a>
 
