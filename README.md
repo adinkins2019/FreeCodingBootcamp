@@ -12,4 +12,5 @@
  Projects
  
  1. HTML Resume - <a href="html_resume/index.html">HTML Resume</a>
+ 2. Facebook Clone <a href="facebook_clone/index.html">Facebook Clone</a>
 
